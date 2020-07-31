@@ -1,0 +1,38 @@
+/usr/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/ubuntu/environment/OrayIC/webapp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ubuntu/environment/OrayIC/webapp/target/site/apidocs/../../mijavadoc'
+-docencoding
+'UTF-8'
+-doctitle
+'webapp Maven Webapp 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/ubuntu/environment/OrayIC/webapp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'webapp Maven Webapp 1.0 API'
+com.gfi
+/home/ubuntu/environment/OrayIC/webapp/src/main/java = 1596023857342
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/script.js = 1596107935428
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/index.html = 1596107935416
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/package-list = 1596107935352
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/deprecated-list.html = 1596107935408
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/allclasses-frame.html = 1596107935412
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/overview-tree.html = 1596107935400
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/stylesheet.css = 1596107935428
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/help-doc.html = 1596107935424
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/allclasses-noframe.html = 1596107935416
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/index-all.html = 1596107935404
+/home/ubuntu/environment/OrayIC/webapp/target/mijavadoc/constant-values.html = 1596107935388
